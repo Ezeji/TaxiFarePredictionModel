@@ -1,0 +1,14 @@
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.deps.json
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.runtimeconfig.json
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.dll
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.pdb
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionML.Model.dll
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionML.Model.pdb
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.AssemblyInfo.cs
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.csproj.CopyComplete
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.dll
+C:\Users\Franklin\source\repos\TaxiFarePrediction\TaxiFarePredictionML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionML.ConsoleApp.pdb
